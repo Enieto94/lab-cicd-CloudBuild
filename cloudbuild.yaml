@@ -1,8 +1,8 @@
 steps:
 - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
   args:
-    - gloud
-    - funcitons
+    - gcloud
+    - functions
     - deploy
     - function1
     - --region=us-central1
